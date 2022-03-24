@@ -8,6 +8,7 @@
             <name>Colin Edwin</name>
             <name>Gavin Harrison</name>
         </members>
+        <style>Progressive Rock</style>
         <famousSongs>
             <title>Arriving Somewhere But Not Here</title>
             <title>Trains</title>
@@ -27,6 +28,7 @@
             <name>Tony Banks</name>
             <name>Mike Rutherford</name>
         </members>
+        <style>Progressive Rock</style>
         <famousSongs>
             <title>Firth of Fifth</title>
             <title>Supper's Ready</title>
@@ -46,6 +48,7 @@
             <name>James LaBrie</name>
             <name>Mike Mangini</name>
         </members>
+        <style>Progressive Metal</style>
         <famousSongs>
             <title>Octavarium</title>
             <title>The Count of Tuscany</title>
@@ -64,6 +67,7 @@
             <name>Richard Wright</name>
             <name>Nick Mason</name>
         </members>
+        <style>Progressive Rock</style>
        <famousSongs>
             <title>Time</title>
             <title>Shine On You Crazy Diamond</title>
@@ -82,6 +86,7 @@
             <name>George Harrison</name>
             <name>Ringo Starr</name>
         </members>
+        <style>Pop Rock</style>
         <famousSongs>
             <title>Let It Be</title>
             <title>I Am The Walrus</title>
@@ -99,6 +104,7 @@
             <name>Dominic Howard</name>
             <name>Chris Wolstenholme</name>
         </members>
+        <style>Alternative Rock</style>
         <famousSongs>
             <title>Uprising</title>
             <title>New Born</title>
@@ -117,6 +123,7 @@
             <name>John Paul Jones</name>
             <name>John Bonham</name>
         </members>
+        <style>Hard Rock</style>
         <famousSongs>
             <title>Stairway to Heaven</title>
             <title>The Song Remains The Same</title>
@@ -135,6 +142,7 @@
             <name>John Deacon</name>
             <name>Roger Taylor</name>
         </members>
+        <style>Rock</style>
         <famousSongs>
             <title>Hammer to Fall</title>
             <title>Brighton Rock</title>
@@ -152,6 +160,7 @@
             <name>Alex Lifeson</name>
             <name>Neil Peart</name>
         </members>
+        <style>Progressive Rock</style>
         <famousSongs>
             <title>YYZ</title>
             <title>Tom Sawyer</title>
@@ -170,6 +179,7 @@
             <name>Keith Moon</name>
             <name>John Entwistle</name>
         </members>
+        <style>Hard Rock</style>
         <famousSongs>
             <title>Baba O'Riley</title>
             <title>Won't Get Fooled Again</title>
@@ -186,6 +196,7 @@
             <name>Jack Black </name>
             <name>Kyle Gass</name>
         </members>
+        <style>Rock</style>
         <famousSongs>
             <title>Tribute</title>
             <title>Master Exploder</title>
@@ -205,6 +216,7 @@
             <name>Bev Bevan</name>
             <name>Kelly Groucutt</name>
         </members>
+        <style>Progressive Rock</style>
         <famousSongs>
             <title>Mr Blue Sky</title>
             <title>Livin' Thing</title>
@@ -215,7 +227,7 @@
         <audioSample>assets/MrBlueSky.mp3</audioSample>
         <image>assets/elo.jpg</image>  
     </band>
-    <band id="g13" style="progressiveRockMetal">
+    <band id="g13" style="progressiveRock">
         <name>Steven Wilson</name>
         <members>
             <name>Steven Wilson</name>
@@ -224,6 +236,7 @@
             <name>Guthrie Govan</name>
             <name>Marco Minnemann</name>
         </members>
+        <style>Progressive Rock</style>
         <famousSongs>
             <title>Drive Home</title>
             <title>Luminol</title>
@@ -243,6 +256,7 @@
             <name>Sib Hashian</name>
             <name>Fran Sheehan</name>
         </members>
+        <style>Hard Rock</style>
         <famousSongs>
             <title>More Than a Feeling</title>
             <title>Foreplay/Long Time</title>
@@ -259,6 +273,7 @@
             <name>Elton John</name>
             <name>Bernie Taupin</name>
         </members>
+        <style>Rock</style>
         <famousSongs>
             <title>Your Song</title>
             <title>Rocketman</title>
@@ -269,11 +284,12 @@
         <audioSample>assets/LoveLiesBleeding.mp3</audioSample>
         <image>assets/elton.jpeg</image>  
     </band>
-    <band id="g16" style="soundtrack">
+    <band id="g16" style="soundtracks">
         <name>Gustavo Santaolalla</name>
         <members>
             <name>Gustavo Santaolalla</name>
         </members>
+        <style>Sountracks</style>
        <famousSongs>
             <title>The Apology Song</title>
             <title>The Last Of Us Theme</title>
