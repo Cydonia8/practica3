@@ -59,7 +59,7 @@
         <audioSample>assets/TheCountOfTuscany.mp3</audioSample>
         <image>assets/dt.gif</image>  
     </band>
-    <band id="g4" style="symphonicProgressiveRock">
+    <band id="g4" style="progressiveRock">
         <name>Pink Floyd</name>
         <members>
             <name>David Gilmour</name>
