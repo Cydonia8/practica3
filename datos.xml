@@ -34,7 +34,7 @@
             <title>Dancing With The Moonlit Knight</title>
             <title>The Lamb Lies Down On Broadway</title>
         </famousSongs>
-        <audioSample>TheMusicalBox.mp3</audioSample>
+        <audioSample>assets/TheMusicalBox.mp3</audioSample>
         <image>assets/genesis.jpg</image>  
     </band>
     <band id="g3" style="progressiveMetal">
@@ -193,7 +193,7 @@
             <title>Kielbasa</title>
             <title>Fuck Her Gently</title>
         </famousSongs>
-        <audioSample></audioSample>
+        <audioSample>assets/RizeOfTheFenix.mp3</audioSample>
         <image>assets/thed.jpg</image>  
     </band>
     <band id="g12" style="progressiveRock">
@@ -207,12 +207,12 @@
         </members>
         <famousSongs>
             <title>Mr Blue Sky</title>
-            <title>Master Exploder</title>
+            <title>Livin' Thing</title>
             <title>Don't Bring Me Down</title>
             <title>Bluebird is Dead</title>
             <title>Last Train to London</title>
         </famousSongs>
-        <audioSample></audioSample>
+        <audioSample>assets/MrBlueSky.mp3</audioSample>
         <image>assets/elo.jpg</image>  
     </band>
     <band id="g13" style="progressiveRockMetal">
@@ -231,7 +231,7 @@
             <title>The Raven That Refused To Sing</title>
             <title>Perfect Life</title>
         </famousSongs>
-        <audioSample></audioSample>
+        <audioSample>assets/DriveHome.mp3</audioSample>
         <image>assets/sw.jpg</image>  
     </band>
     <band id="g14" style="hardRock">
@@ -250,7 +250,7 @@
             <title>Hitch a Ride</title>
             <title>Amanda</title>
         </famousSongs>
-        <audioSample></audioSample>
+        <audioSample>assets/Foreplay.mp3</audioSample>
         <image>assets/boston.jpg</image>  
     </band>
     <band id="g15" style="Rock">
@@ -281,7 +281,7 @@
             <title>No Existe Fuerza En El Mundo</title>
             <title>De Ushuaia A La Quiaca</title>
         </famousSongs>
-        <audioSample></audioSample>
+        <audioSample>assets/LastApology.mp3</audioSample>
         <image>assets/gustavo.jpg</image>  
     </band>
 </bands>
