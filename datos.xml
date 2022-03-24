@@ -1,0 +1,287 @@
+<?xml version='1.0' encoding = 'UTF-8'?>
+<bands>
+    <band id="g1" style="progressiveRock">
+        <name>Porcupine Tree</name>
+        <members>
+            <name>Steven Wilson</name>
+            <name>Richard Barbieri</name>
+            <name>Colin Edwin</name>
+            <name>Gavin Harrison</name>
+        </members>
+        <famousSongs>
+            <title>Arriving Somewhere But Not Here</title>
+            <title>Trains</title>
+            <title>Anesthetize</title>
+            <title>Blackest Eyes</title>
+            <title>How Is Your Life Today?</title>
+        </famousSongs>
+        <audioSample>assets/NewBorn.mp3</audioSample>
+        <image>assets/pt.jpeg</image>        
+    </band>
+    <band id="g2" style="progressiveRock">
+        <name>Genesis</name>
+        <members>
+            <name>Peter Gabriel</name>
+            <name>Steve Hackett</name>
+            <name>Phil Collins</name>
+            <name>Tony Banks</name>
+            <name>Mike Rutherford</name>
+        </members>
+        <famousSongs>
+            <title>Firth of Fifth</title>
+            <title>Supper's Ready</title>
+            <title>The Musical Box</title>
+            <title>Dancing With The Moonlit Knight</title>
+            <title>The Lamb Lies Down On Broadway</title>
+        </famousSongs>
+        <audioSample>TheMusicalBox.mp3</audioSample>
+        <image>assets/genesis.jpg</image>  
+    </band>
+    <band id="g3" style="progressiveMetal">
+        <name>Dream Theater</name>
+        <members>
+            <name>John Petrucci</name>
+            <name>Jordan Rudess</name>
+            <name>John Myung</name>
+            <name>James LaBrie</name>
+            <name>Mike Mangini</name>
+        </members>
+        <famousSongs>
+            <title>Octavarium</title>
+            <title>The Count of Tuscany</title>
+            <title>Metropolis Pt 1</title>
+            <title>Space-Dye Vest</title>
+            <title>The Spirit Carries On</title>
+        </famousSongs>
+        <audioSample></audioSample>
+        <image>assets/dt.gif</image>  
+    </band>
+    <band id="g4" style="symphonicProgressiveRock">
+        <name>Pink Floyd</name>
+        <members>
+            <name>David Gilmour</name>
+            <name>Roger Waters</name>
+            <name>Richard Wright</name>
+            <name>Nick Mason</name>
+        </members>
+       <famousSongs>
+            <title>Time</title>
+            <title>Shine On You Crazy Diamond</title>
+            <title>Wish You Were Here</title>
+            <title>Echoes</title>
+            <title>Dogs</title>
+        </famousSongs>
+        <audioSample></audioSample>
+        <image>assets/pf.jpeg</image>  
+    </band>
+    <band id="g5" style="popRock">
+        <name>The Beatles</name>
+        <members>
+            <name>Paul McCartney</name>
+            <name>John Lennon</name>
+            <name>George Harrison</name>
+            <name>Ringo Starr</name>
+        </members>
+        <famousSongs>
+            <title>Let It Be</title>
+            <title>I Am The Walrus</title>
+            <title>Yesterday</title>
+            <title>While My Guitar Gently Weeps</title>
+            <title>Something</title>
+        </famousSongs>
+        <audioSample></audioSample>
+        <image>assets/beatles.jpg</image>  
+    </band>
+    <band id="g6" style="alternativeRock">
+        <name>Muse</name>
+        <members>
+            <name>Matt Bellamy</name>
+            <name>Dominic Howard</name>
+            <name>Chris Wolstenholme</name>
+        </members>
+        <famousSongs>
+            <title>Uprising</title>
+            <title>New Born</title>
+            <title>Bliss</title>
+            <title>Apocalypse Please</title>
+            <title>Knights of Cydonia</title>
+        </famousSongs>
+        <audioSample></audioSample>
+        <image>assets/muse.jpg</image>  
+    </band>
+    <band id="g7" style="hardRock">
+        <name>Led Zeppelin</name>
+        <members>
+            <name>Jimmy Page</name>
+            <name>Robert Plant</name>
+            <name>John Paul Jones</name>
+            <name>John Bonham</name>
+        </members>
+        <famousSongs>
+            <title>Stairway to Heaven</title>
+            <title>The Song Remains The Same</title>
+            <title>Achilles Last Stand</title>
+            <title>Since I've Been Loving You</title>
+            <title>Black Dog</title>
+        </famousSongs>
+        <audioSample> </audioSample>
+        <image>assets/ledzep.jpg</image>  
+    </band>
+    <band id="g8" style="rock">
+        <name>Queen</name>
+        <members>
+            <name>Freddie Mercury</name>
+            <name>Brian May</name>
+            <name>John Deacon</name>
+            <name>Roger Taylor</name>
+        </members>
+        <famousSongs>
+            <title>Hammer to Fall</title>
+            <title>Brighton Rock</title>
+            <title>I Want it All</title>
+            <title>Under Pressure</title>
+            <title>The Millionaire Waltz</title>
+        </famousSongs>
+        <audioSample></audioSample>
+        <image>assets/queen.jpg</image>  
+    </band>
+    <band id="g9" style="progressiveRock">
+        <name>Rush</name>
+        <members>
+            <name>Geddy Lee</name>
+            <name>Alex Lifeson</name>
+            <name>Neil Peart</name>
+        </members>
+        <famousSongs>
+            <title>YYZ</title>
+            <title>Tom Sawyer</title>
+            <title>The Spirit of Radio</title>
+            <title>2112</title>
+            <title>Subdivisions</title>
+        </famousSongs>
+        <audioSample></audioSample>
+        <image>assets/rush.jpg</image>  
+    </band>
+    <band id="g10" style="hardRock">
+        <name>The Who</name>
+        <members>
+            <name>Roger Daltrey</name>
+            <name>Pete Townshend</name>
+            <name>Keith Moon</name>
+            <name>John Entwistle</name>
+        </members>
+        <famousSongs>
+            <title>Baba O'Riley</title>
+            <title>Won't Get Fooled Again</title>
+            <title>Who Are You</title>
+            <title>Getting in Tune</title>
+            <title>Pinball Wizard</title>
+        </famousSongs>
+        <audioSample></audioSample>
+        <image>assets/thewho.jpg</image>  
+    </band>
+    <band id="g11" style="rock">
+        <name>Tenacious D</name>
+        <members>
+            <name>Jack Black </name>
+            <name>Kyle Gass</name>
+        </members>
+        <famousSongs>
+            <title>Tribute</title>
+            <title>Master Exploder</title>
+            <title>Rize of the Fenix</title>
+            <title>Kielbasa</title>
+            <title>Fuck Her Gently</title>
+        </famousSongs>
+        <audioSample></audioSample>
+        <image>assets/thed.jpg</image>  
+    </band>
+    <band id="g12" style="progressiveRock">
+        <name>Electric Light Orchestra</name>
+        <members>
+            <name>Jeff Lynne</name>
+            <name>Roy Wood</name>
+            <name>Richard Tandy</name>
+            <name>Bev Bevan</name>
+            <name>Kelly Groucutt</name>
+        </members>
+        <famousSongs>
+            <title>Mr Blue Sky</title>
+            <title>Master Exploder</title>
+            <title>Don't Bring Me Down</title>
+            <title>Bluebird is Dead</title>
+            <title>Last Train to London</title>
+        </famousSongs>
+        <audioSample></audioSample>
+        <image>assets/elo.jpg</image>  
+    </band>
+    <band id="g13" style="progressiveRockMetal">
+        <name>Steven Wilson</name>
+        <members>
+            <name>Steven Wilson</name>
+            <name>Adam Holzman</name>
+            <name>Nick Beggs</name>
+            <name>Guthrie Govan</name>
+            <name>Marco Minnemann</name>
+        </members>
+        <famousSongs>
+            <title>Drive Home</title>
+            <title>Luminol</title>
+            <title>Routine</title>
+            <title>The Raven That Refused To Sing</title>
+            <title>Perfect Life</title>
+        </famousSongs>
+        <audioSample></audioSample>
+        <image>assets/sw.jpg</image>  
+    </band>
+    <band id="g14" style="hardRock">
+        <name>Boston</name>
+        <members>
+            <name>Tom Scholtz</name>
+            <name>Brad Delp</name>
+            <name>Barry Goudreau</name>
+            <name>Sib Hashian</name>
+            <name>Fran Sheehan</name>
+        </members>
+        <famousSongs>
+            <title>More Than a Feeling</title>
+            <title>Foreplay/Long Time</title>
+            <title>Peace of Mind</title>
+            <title>Hitch a Ride</title>
+            <title>Amanda</title>
+        </famousSongs>
+        <audioSample></audioSample>
+        <image>assets/boston.jpg</image>  
+    </band>
+    <band id="g15" style="Rock">
+        <name>Elton John</name>
+        <members>
+            <name>Elton John</name>
+            <name>Bernie Taupin</name>
+        </members>
+        <famousSongs>
+            <title>Your Song</title>
+            <title>Rocketman</title>
+            <title>Love Lies Bleeding...Funeral For a Friend</title>
+            <title>I'm Still Standing</title>
+            <title>Candle in the Wind</title>
+        </famousSongs>
+        <audioSample></audioSample>
+        <image>assets/elton.jpeg</image>  
+    </band>
+    <band id="g16" style="soundtrack">
+        <name>Gustavo Santaolalla</name>
+        <members>
+            <name>Gustavo Santaolalla</name>
+        </members>
+       <famousSongs>
+            <title>The Apology Song</title>
+            <title>The Last Of Us Theme</title>
+            <title>Ando Rodando</title>
+            <title>No Existe Fuerza En El Mundo</title>
+            <title>De Ushuaia A La Quiaca</title>
+        </famousSongs>
+        <audioSample></audioSample>
+        <image>assets/gustavo.jpg</image>  
+    </band>
+</bands>
