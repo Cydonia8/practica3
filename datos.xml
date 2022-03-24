@@ -53,7 +53,7 @@
             <title>Space-Dye Vest</title>
             <title>The Spirit Carries On</title>
         </famousSongs>
-        <audioSample></audioSample>
+        <audioSample>assets/TheCountOfTuscany.mp3</audioSample>
         <image>assets/dt.gif</image>  
     </band>
     <band id="g4" style="symphonicProgressiveRock">
@@ -71,7 +71,7 @@
             <title>Echoes</title>
             <title>Dogs</title>
         </famousSongs>
-        <audioSample></audioSample>
+        <audioSample>assets/Dogs.mp3</audioSample>
         <image>assets/pf.jpeg</image>  
     </band>
     <band id="g5" style="popRock">
@@ -89,7 +89,7 @@
             <title>While My Guitar Gently Weeps</title>
             <title>Something</title>
         </famousSongs>
-        <audioSample></audioSample>
+        <audioSample>assets/IAmTheWalrus.mp3</audioSample>
         <image>assets/beatles.jpg</image>  
     </band>
     <band id="g6" style="alternativeRock">
