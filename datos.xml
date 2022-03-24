@@ -15,7 +15,7 @@
             <title>Blackest Eyes</title>
             <title>How Is Your Life Today?</title>
         </famousSongs>
-        <audioSample>assets/NewBorn.mp3</audioSample>
+        <audioSample>assets/Trains.mp3</audioSample>
         <image>assets/pt.jpeg</image>        
     </band>
     <band id="g2" style="progressiveRock">
@@ -106,7 +106,7 @@
             <title>Apocalypse Please</title>
             <title>Knights of Cydonia</title>
         </famousSongs>
-        <audioSample></audioSample>
+        <audioSample>assets/NewBorn.mp3</audioSample>
         <image>assets/muse.jpg</image>  
     </band>
     <band id="g7" style="hardRock">
@@ -124,7 +124,7 @@
             <title>Since I've Been Loving You</title>
             <title>Black Dog</title>
         </famousSongs>
-        <audioSample> </audioSample>
+        <audioSample>assets/BlackDog.mp3</audioSample>
         <image>assets/ledzep.jpg</image>  
     </band>
     <band id="g8" style="rock">
@@ -142,7 +142,7 @@
             <title>Under Pressure</title>
             <title>The Millionaire Waltz</title>
         </famousSongs>
-        <audioSample></audioSample>
+        <audioSample>assets/BrightonRock.mp3</audioSample>
         <image>assets/queen.jpg</image>  
     </band>
     <band id="g9" style="progressiveRock">
@@ -159,7 +159,7 @@
             <title>2112</title>
             <title>Subdivisions</title>
         </famousSongs>
-        <audioSample></audioSample>
+        <audioSample>assets/TomSawyer.mp3</audioSample>
         <image>assets/rush.jpg</image>  
     </band>
     <band id="g10" style="hardRock">
@@ -177,7 +177,7 @@
             <title>Getting in Tune</title>
             <title>Pinball Wizard</title>
         </famousSongs>
-        <audioSample></audioSample>
+        <audioSample>assets/BabaORiley.mp3</audioSample>
         <image>assets/thewho.jpg</image>  
     </band>
     <band id="g11" style="rock">
