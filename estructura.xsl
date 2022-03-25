@@ -54,7 +54,7 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
                                 </ul>
                             </td>
                             <td id="columnaAudio">
-                                <audio id="barra">
+                                <audio id="start" preload="auto">
                                     <xsl:attribute name="src">
                                         <xsl:value-of select="audioSample"/>
                                     </xsl:attribute>
