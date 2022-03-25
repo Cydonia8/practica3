@@ -4,9 +4,17 @@ body{
 }
 table{
     border-collapse: collapse;
-    border: 2px double whitesmoke;
+    border: 2px ridge whitesmoke;
     margin: auto;
     color: white;
+}
+thead{
+    background-color: white;
+    color: black;
+}
+tbody tr:nth-child(2n){
+    background-color: rgb(224, 212, 212);
+    color: black;
 }
 th,td{
     padding: 0.5rem;
@@ -15,6 +23,9 @@ th,td{
 th{
     text-align: center;
     
+}
+td:nth-child(5){
+    background-color: black;
 }
 img{
     width: 400px;
@@ -38,6 +49,7 @@ audio{
     top: 0px;
     filter: blur(0.5px);
     border-radius: 50%;
+    margin-top: 10rem;
 }
 #barra{
     display: flex;
