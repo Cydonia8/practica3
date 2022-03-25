@@ -1,0 +1,44 @@
+body{
+    font-family: 'Expletus Sans', cursive;
+    background-color: black;
+}
+table{
+    border-collapse: collapse;
+    border: 2px double whitesmoke;
+    margin: auto;
+    color: white;
+}
+th,td{
+    padding: 0.5rem;
+    border: 1px solid whitesmoke;
+}
+th{
+    text-align: center;
+    
+}
+img{
+    width: 400px;
+    vertical-align: bottom;
+    object-fit: contain;
+}
+h1,h2{
+    text-align: center;
+}
+td:last-child{
+    padding: 0px;
+}
+
+#columnaAudio:hover{
+    background-image: url('assets/wave.gif');
+    background-position: center;
+    background-size: cover;
+}
+audio{
+    opacity: 50%;
+    top: 0px;
+    filter: blur(0.5px);
+    border-radius: 50%;
+}
+#barra{
+    display: flex;
+}

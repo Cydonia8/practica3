@@ -1,0 +1,3 @@
+java -jar saxon-he-10.5.jar -s:ejercicio1/datos.xml -xsl:ejercicio1/estructura.xsl -o:ejercicio1/web.html
+
+java -jar saxon-he-10.5.jar -s:ejercicio2/planets.xml -xsl:ejercicio2/estructura.xsl -o:ejercicio2/web.html
