@@ -1,0 +1,302 @@
+[
+    {
+        "Nombre" : "Porcupine Tree",
+        "Miembros" : [
+            "Steven Wilson",
+            "Richard Barbieri",
+            "Gavin Harrison",
+            "Colin Edwin"
+        ],
+        "Estilo" : "Progressive Rock",
+        "CancionesFamosas" : [
+            "Arriving Somewhere But Not Here",
+            "Trains",
+            "Anesthetize",
+            "Blackest Eyes",
+            "How Is Your Life Today?"
+        ],
+        "MuestraAudio" : "assets/Trains.mp3",
+        "Foto" : "assests/pt.jpg"
+    },
+    {
+        "Nombre" : "Genesis",
+        "Miembros" : [
+            "Peter Gabriel",
+            "Phil Collins",
+            "Steve Hackett",
+            "Tony Banks",
+            "Mike Rutherford"
+        ],
+        "Estilo" : "Progressive Rock",
+        "CancionesFamosas" : [
+            "Firth of Fifth",
+            "Supper's Ready",
+            "The Musical Box",
+            "Dancing With The Moonlit Knight",
+            "Carpet Crawlers"
+        ],
+        "MuestraAudio" : "assets/TheMusicalBox.mp3",
+        "Foto" : "assests/genesis.jpg"
+    },
+    {
+        "Nombre" : "Dream Theater",
+        "Miembros" : [
+            "John Petrucci",
+            "Mike Mangini",
+            "John Myung",
+            "James LaBrie",
+            "Jordan Rudess"
+        ],
+        "Estilo" : "Progressive Metal",
+        "CancionesFamosas" : [
+            "Octavarium",
+            "The Count of Tuscany",
+            "Metropolis Pt 1",
+            "Space-Dye Vest",
+            "The Spirit Carries On"
+        ],
+        "MuestraAudio" : "assets/TheCountOfTuscany.mp3",
+        "Foto" : "assests/dt.gif"
+    },
+    {
+        "Nombre" : "Pink Floyd",
+        "Miembros" : [
+            "David Gilmour",
+            "Roger Waters",
+            "Richard Wright",
+            "Nick Mason"
+        ],
+        "Estilo" : "Progressive Rock",
+        "CancionesFamosas" : [
+            "Time",
+            "Shine On You Crazy Diamond",
+            "Wish You Were Here",
+            "Echoes",
+            "Dogs"
+        ],
+        "MuestraAudio" : "assets/Dogs.mp3",
+        "Foto" : "assests/pf.jpeg"
+    },
+    {
+        "Nombre" : "The Beatles",
+        "Miembros" : [
+            "Paul McCartney",
+            "George Harrison",
+            "Ringo Starr",
+            "John Lennon"
+        ],
+        "Estilo" : "Pop Rock",
+        "CancionesFamosas" : [
+            "Let It Be",
+            "I Am The Walrus",
+            "Yesterday",
+            "While My Guitar Gently Weeps",
+            "Something"
+        ],
+        "MuestraAudio" : "assets/IAmTheWalrus.mp3",
+        "Foto" : "assests/beatles.jpg"
+    },
+    {
+        "Nombre" : "Muse",
+        "Miembros" : [
+            "Matt Bellamy",
+            "Dominic Howard",
+            "Chris Wolstenholme"
+        ],
+        "Estilo" : "Alternative Rock",
+        "CancionesFamosas" : [
+            "Uprising",
+            "New Born",
+            "Bliss",
+            "Apocalypse Please",
+            "Knights of Cydonia"
+        ],
+        "MuestraAudio" : "assets/NewBorn.mp3",
+        "Foto" : "assests/muse.jpg"
+    },
+    {
+        "Nombre" : "Led Zeppelin",
+        "Miembros" : [
+            "Jimmy Page",
+            "Robert Plant",
+            "John Bonham",
+            "John Paul Jones"
+        ],
+        "Estilo" : "Hard Rock",
+        "CancionesFamosas" : [
+            "Stairway to Heaven",
+            "The Song Remains The Same",
+            "Achilles Last Stand",
+            "Since I've Been Loving You",
+            "Black Dog"
+        ],
+        "MuestraAudio" : "assets/BlackDog.mp3",
+        "Foto" : "assests/ledzep.jpg"
+    },
+    {
+        "Nombre" : "Queen",
+        "Miembros" : [
+            "Freddie Mercury",
+            "Brian May",
+            "John Deacon",
+            "Roger Taylor"
+        ],
+        "Estilo" : "Rock",
+        "CancionesFamosas" : [
+            "Hammer to Fall",
+            "Brighton Rock",
+            "I Want It All",
+            "Under Pressure",
+            "The Millionaire Waltz"
+        ],
+        "MuestraAudio" : "assets/BrightonRock.mp3",
+        "Foto" : "assests/queen.jpg"
+    },
+    {
+        "Nombre" : "Rush",
+        "Miembros" : [
+            "Geddy Lee",
+            "Alex Lifeson",
+            "Neil Peart"
+        ],
+        "Estilo" : "Progressive Rock",
+        "CancionesFamosas" : [
+            "YYZ",
+            "Tom Sawyer",
+            "The Spirit of Radio",
+            "2112",
+            "Subdivisions"
+        ],
+        "MuestraAudio" : "assets/TomSawyer.mp3",
+        "Foto" : "assests/rush.jpg"
+    },
+    {
+        "Nombre" : "The Who",
+        "Miembros" : [
+            "Pete Townshend",
+            "Roger Daltrey",
+            "Keith Moon",
+            "John Entwistle"
+        ],
+        "Estilo" : "Hard Rock",
+        "CancionesFamosas" : [
+            "Baba O'Riley",
+            "Won't Get Fooled Again",
+            "Who Are You",
+            "Getting in Tune",
+            "Pinball Wizard"
+        ],
+        "MuestraAudio" : "assets/BabaORiley.mp3",
+        "Foto" : "assests/thewho.jpg"
+    },
+    {
+        "Nombre" : "Tenacious D",
+        "Miembros" : [
+            "Jack Black",
+            "Kyle Gass"
+        ],
+        "Estilo" : "Rock",
+        "CancionesFamosas" : [
+            "Tribute",
+            "Master Exploder",
+            "Rize of the Fenix",
+            "Kielbasa",
+            "Fuck Her Gently"
+        ],
+        "MuestraAudio" : "assets/RizeOfTheFenix.mp3",
+        "Foto" : "assests/thed.jpg"
+    },
+    {
+        "Nombre" : "Electric Light Orchestra",
+        "Miembros" : [
+            "Jeff Lynne",
+            "Roy Wood",
+            "Richard Tandy",
+            "Bev Bevan",
+            "Kelly Groucutt"
+        ],
+        "Estilo" : "Progressive Rock",
+        "CancionesFamosas" : [
+            "Mr Blue Sky",
+            "Bluebird Is Dead",
+            "Livin' Thing",
+            "Don't Bring Me Down",
+            "Last Train to London"
+        ],
+        "MuestraAudio" : "assets/MrBlueSky.mp3",
+        "Foto" : "assests/elo.jpg"
+    },
+    {
+        "Nombre" : "Steven Wilson",
+        "Miembros" : [
+            "Steven Wilson",
+            "Adam Holzman",
+            "Nick Beggs",
+            "Guthrie Govan",
+            "Marco Minnemann"
+        ],
+        "Estilo" : "Progressive Rock",
+        "CancionesFamosas" : [
+            "Drive Home",
+            "Luminol",
+            "The Raven That Refused To Sing",
+            "Routine",
+            "Perfect Life"
+        ],
+        "MuestraAudio" : "assets/DriveHome.mp3",
+        "Foto" : "assests/sw.jpg"
+    },
+    {
+        "Nombre" : "Boston",
+        "Miembros" : [
+            "Tom Scholtz",
+            "Brad Delp",
+            "Barry Goudreau",
+            "Sib Hashian",
+            "Fran Sheehan"
+        ],
+        "Estilo" : "Hard Rock",
+        "CancionesFamosas" : [
+            "More Than A Feeling",
+            "Foreplay/Long Time",
+            "Peace of Mind",
+            "Hitch a Ride",
+            "Amanda"
+        ],
+        "MuestraAudio" : "assets/Foreplay.mp3",
+        "Foto" : "assests/boston.jpg"
+    },
+    {
+        "Nombre" : "Elton John",
+        "Miembros" : [
+            "Elton John",
+            "Bernie Taupin"
+        ],
+        "Estilo" : "Rock",
+        "CancionesFamosas" : [
+            "Your Song",
+            "Rocketman",
+            "Love Lies Bleeding...Funeral For A Friend",
+            "Candle In The Wind",
+            "I'm Still Standing"
+        ],
+        "MuestraAudio" : "assets/LoveLiesBleeding.mp3",
+        "Foto" : "assests/elton.jpeg"
+    },
+    {
+        "Nombre" : "Gustavo Santaolalla",
+        "Miembros" : [
+            "Gustavo Santaolalla"
+        ],
+        "Estilo" : "Soundtracks",
+        "CancionesFamosas" : [
+            "The Apology Song",
+            "The Last Of Us Theme",
+            "Ando Rodando",
+            "No Existe Fuerza En El Mundo",
+            "De Ushuaia A La Quiaca"
+        ],
+        "MuestraAudio" : "assets/LastApology.mp3",
+        "Foto" : "assests/gustavo.jpg"
+    }
+]
