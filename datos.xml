@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding = 'UTF-8'?>
 <bands>
-    <band id="g1" style="progressiveRock">
+    <band id="g1">
         <name>Porcupine Tree</name>
         <members>
             <name>Steven Wilson</name>
@@ -19,7 +19,7 @@
         <audioSample>assets/Trains.mp3</audioSample>
         <image>assets/pt.jpg</image>        
     </band>
-    <band id="g2" style="progressiveRock">
+    <band id="g2">
         <name>Genesis</name>
         <members>
             <name>Peter Gabriel</name>
@@ -39,7 +39,7 @@
         <audioSample>assets/TheMusicalBox.mp3</audioSample>
         <image>assets/genesis.jpg</image>  
     </band>
-    <band id="g3" style="progressiveMetal">
+    <band id="g3">
         <name>Dream Theater</name>
         <members>
             <name>John Petrucci</name>
@@ -59,7 +59,7 @@
         <audioSample>assets/TheCountOfTuscany.mp3</audioSample>
         <image>assets/dt.gif</image>  
     </band>
-    <band id="g4" style="progressiveRock">
+    <band id="g4">
         <name>Pink Floyd</name>
         <members>
             <name>David Gilmour</name>
@@ -78,7 +78,7 @@
         <audioSample>assets/Dogs.mp3</audioSample>
         <image>assets/pf.jpeg</image>  
     </band>
-    <band id="g5" style="popRock">
+    <band id="g5">
         <name>The Beatles</name>
         <members>
             <name>Paul McCartney</name>
@@ -97,7 +97,7 @@
         <audioSample>assets/IAmTheWalrus.mp3</audioSample>
         <image>assets/beatles.jpg</image>  
     </band>
-    <band id="g6" style="alternativeRock">
+    <band id="g6">
         <name>Muse</name>
         <members>
             <name>Matt Bellamy</name>
@@ -115,7 +115,7 @@
         <audioSample>assets/NewBorn.mp3</audioSample>
         <image>assets/muse.jpg</image>  
     </band>
-    <band id="g7" style="hardRock">
+    <band id="g7">
         <name>Led Zeppelin</name>
         <members>
             <name>Jimmy Page</name>
@@ -134,7 +134,7 @@
         <audioSample>assets/BlackDog.mp3</audioSample>
         <image>assets/ledzep.jpg</image>  
     </band>
-    <band id="g8" style="rock">
+    <band id="g8">
         <name>Queen</name>
         <members>
             <name>Freddie Mercury</name>
@@ -153,7 +153,7 @@
         <audioSample>assets/BrightonRock.mp3</audioSample>
         <image>assets/queen.jpg</image>  
     </band>
-    <band id="g9" style="progressiveRock">
+    <band id="g9">
         <name>Rush</name>
         <members>
             <name>Geddy Lee</name>
@@ -171,7 +171,7 @@
         <audioSample>assets/TomSawyer.mp3</audioSample>
         <image>assets/rush.jpg</image>  
     </band>
-    <band id="g10" style="hardRock">
+    <band id="g10">
         <name>The Who</name>
         <members>
             <name>Roger Daltrey</name>
@@ -190,7 +190,7 @@
         <audioSample>assets/BabaORiley.mp3</audioSample>
         <image>assets/thewho.jpg</image>  
     </band>
-    <band id="g11" style="rock">
+    <band id="g11">
         <name>Tenacious D</name>
         <members>
             <name>Jack Black </name>
@@ -207,7 +207,7 @@
         <audioSample>assets/RizeOfTheFenix.mp3</audioSample>
         <image>assets/thed.jpg</image>  
     </band>
-    <band id="g12" style="progressiveRock">
+    <band id="g12">
         <name>Electric Light Orchestra</name>
         <members>
             <name>Jeff Lynne</name>
@@ -227,7 +227,7 @@
         <audioSample>assets/MrBlueSky.mp3</audioSample>
         <image>assets/elo.jpg</image>  
     </band>
-    <band id="g13" style="progressiveRock">
+    <band id="g13">
         <name>Steven Wilson</name>
         <members>
             <name>Steven Wilson</name>
@@ -247,7 +247,7 @@
         <audioSample>assets/DriveHome.mp3</audioSample>
         <image>assets/sw.jpg</image>  
     </band>
-    <band id="g14" style="hardRock">
+    <band id="g14">
         <name>Boston</name>
         <members>
             <name>Tom Scholtz</name>
@@ -267,7 +267,7 @@
         <audioSample>assets/Foreplay.mp3</audioSample>
         <image>assets/boston.jpg</image>  
     </band>
-    <band id="g15" style="Rock">
+    <band id="g15">
         <name>Elton John</name>
         <members>
             <name>Elton John</name>
@@ -284,7 +284,7 @@
         <audioSample>assets/LoveLiesBleeding.mp3</audioSample>
         <image>assets/elton.jpeg</image>  
     </band>
-    <band id="g16" style="soundtracks">
+    <band id="g16">
         <name>Gustavo Santaolalla</name>
         <members>
             <name>Gustavo Santaolalla</name>
